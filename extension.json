@@ -1,0 +1,13 @@
+{
+  "name": "spirit01_decoder",
+  "apiVersion": "1.0.0",
+  "author": "shy coder",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "spirit01_decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
